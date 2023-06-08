@@ -7,7 +7,7 @@ Simple game for PIC16F877A microcontroller that tests your sequence memory.
 You can run it on [PicSimLab](https://sourceforge.net/projects/picsim/) simulator.\
 Run PicSimLab, select Board > Breadboard, Microcontroller > PIC16F877A, File > Load_Hex and select `sequence_memo.X.production.hex` file.\
 Then go to Modules > Spare_parts, in second window go to File > Load_configuration and select `sequence_memo.pcf` file.\
-Configuration shhould look like shown below
+Configuration should look like shown below
 
 <img src="https://github.com/bartekk2908/PIC16F877A_sequence_memory_game/assets/104419783/4dd221c1-be24-44d0-a4c4-d94fd8dabdc8" width="500" />
 
